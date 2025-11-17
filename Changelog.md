@@ -173,7 +173,7 @@ This project was developed as part of the Web Development curriculum at The Inde
 
 **Project Status**:  COMPLETED  
 **Last Updated**: September 25, 2025  
-**Total Development Time**: 25 days (Jan 1-25, 2025)    
+**Total Development Time**: 25 days (Sep 1-25, 2025)    
 **Live Demo**: [GitHub Pages URL when deployed]
 
 *"drip with meaning, move with loyalty" - Slime Apparel*
