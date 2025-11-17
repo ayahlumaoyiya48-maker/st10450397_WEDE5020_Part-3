@@ -39,7 +39,7 @@
 
 ## Complete Change Log
 
-###  Part 3 - JavaScript & Advanced Features (October - November 2024)
+###  Part 3 - JavaScript & Advanced Features (October - November 2025)
 **Week 1: Core JavaScript Foundation**
 - **Oct 28,  2025**: Initial JavaScript setup and DOM manipulation
 - **Oct 30,  2025**: Shopping cart functionality with localStorage
@@ -56,7 +56,7 @@
 - **Nov 16,  2025**: Performance optimization and bug fixes
 - **Nov 18,  2025**: Final testing and documentation
 
-###  Part 2 - CSS Styling & Responsive Design (September 2024)
+###  Part 2 - CSS Styling & Responsive Design (September 2025)
 **Week 1: Foundation & Basic Styling**
 - **Sep 16,  2025**: Base CSS structure and color scheme
 - **Sep 18,  2025**: Navigation and header styling
@@ -92,9 +92,9 @@
 
 | Phase | Duration | Key Deliverables | Due Date | Status |
 |-------|----------|------------------|----------|---------|
-| **Part 1** | Aug 19 - Sep 6, 2025 | HTML Structure, Navigation, Content | Aug 27, 2024 | ✅ Submitted |
-| **Part 2** | Sep 16 - Oct 4, 2025 | Responsive CSS, Styling, Layouts | Sep 26, 2024 | ✅ Submitted |
-| **Part 3** | Oct 28 - Nov 18, 2025 | JavaScript, SEO, Forms, Cart | Nov 19, 2024 | ✅ Completed |
+| **Part 1** | Aug 19 - Sep 6, 2025 | HTML Structure, Navigation, Content | Aug 27, 2024 |  Submitted |
+| **Part 2** | Sep 16 - Oct 4, 2025 | Responsive CSS, Styling, Layouts | Sep 26, 2024 |  Submitted |
+| **Part 3** | Oct 28 - Nov 18, 2025 | JavaScript, SEO, Forms, Cart | Nov 19, 2024 |  Completed |
 
 ## Academic Submission Schedule
 
@@ -188,7 +188,6 @@
 ## License & Attribution
 This project was developed as part of the Web Development curriculum at The Independent Institute of Education. All brand content, images, and design are fictional and created for educational purposes.
 
----
 
 **Project Status**:  COMPLETED  
 **Last Updated**: November 18, 2025  
