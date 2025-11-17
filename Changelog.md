@@ -81,9 +81,9 @@
 
 | Phase | Duration | Key Deliverables | Status |
 |-------|----------|------------------|---------|
-| **Part 1** | Sep  1-7, 2025 | HTML Structure, Navigation, Content | ✅ Completed |
-| **Part 2** | Sep  8-14, 2025 | Responsive CSS, Styling, Layouts | ✅ Completed |
-| **Part 3** | Sep  15-25, 2025 | JavaScript, SEO, Forms, Cart | ✅ Completed |
+| **Part 1** | Sep  1-7, 2025 | HTML Structure, Navigation, Content | Completed |
+| **Part 2** | Sep  8-14, 2025 | Responsive CSS, Styling, Layouts |  Completed |
+| **Part 3** | Sep  15-25, 2025 | JavaScript, SEO, Forms, Cart | Completed |
 
 ## Features Demonstration
 
