@@ -4,6 +4,7 @@
 
 ## Project Overview
 A fully responsive e-commerce website for Slime Apparel, a premium Johannesburg streetwear brand. Built with modern web technologies and best practices.
+This was inspired by the bash style and functionality.
 
 ## Student Information
 - **Student Name**: Ayahluma Oyiya
