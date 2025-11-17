@@ -39,51 +39,69 @@
 
 ## Complete Change Log
 
-###  Part 3 - JavaScript & Advanced Features (January 2025)
-**Week 1: Core JavaScript Implementation**
-- **Sep 15, 2025**: Enhanced JavaScript functionality for shopping cart system
-- **Sep 16, 2025**: Implemented form validation with real-time error handling
-- **Sep 17, 2025**: Added product search and filtering functionality
-- **Sep 18, 2025**: Integrated FAQ accordion system with smooth animations
+###  Part 3 - JavaScript & Advanced Features (October - November 2024)
+**Week 1: Core JavaScript Foundation**
+- **Oct 28,  2025**: Initial JavaScript setup and DOM manipulation
+- **Oct 30,  2025**: Shopping cart functionality with localStorage
+- **Nov 2,  2025**: Form validation system implementation
 
-**Week 2: Advanced Features & SEO**
-- **Sep 19, 2025**: Implemented image lightbox for product viewing
-- **Sep 20, 2025**: Enhanced mobile-responsive navigation with hamburger menu
-- **Sep 21, 2025**: Created notification system for user feedback
-- **Sep 22, 2025**: SEO implementation with comprehensive meta tags
-- **Sep 23, 2025**: Performance optimization and bug fixes resolution
-- **Sep 24, 2025**: Social media integration with Ion Icons
-- **Sep 25, 2025**: Final documentation updates and README completion
+**Week 2: Interactive Features**
+- **Nov 5,  2025**: Product search and filtering functionality
+- **Nov 7,  2025**: FAQ accordion system with smooth animations
+- **Nov 9,  2025**: Image lightbox for product viewing
 
-###  Part 2 - CSS Styling & Responsive Design (January 2025)
-**Week 1: Foundation & Layout**
-- **Sep 8, 2025**: Base responsive CSS structure implementation
-- **Sep 9, 2025**: Mobile-first design approach established
-- **Sep 10, 2025**: Vertical layout designs for About Us page
-- **Sep 11, 2025**: Services page grid system and product cards
+**Week 3: Advanced Features & Polish**
+- **Nov 12,  2025**: Mobile-responsive navigation enhancements
+- **Nov 14,  2025**: Notification system for user feedback
+- **Nov 16,  2025**: Performance optimization and bug fixes
+- **Nov 18,  2025**: Final testing and documentation
 
-**Week 2: Styling & Polish**
-- **Sep 12, 2025**: Interactive elements and hover effects
-- **Sep 13, 2025**: Cross-browser compatibility testing and fixes
-- **Sep 14, 2025**: Performance optimization and final responsive styling
+###  Part 2 - CSS Styling & Responsive Design (September 2024)
+**Week 1: Foundation & Basic Styling**
+- **Sep 16,  2025**: Base CSS structure and color scheme
+- **Sep 18,  2025**: Navigation and header styling
+- **Sep 20,  2025**: Home page hero section design
 
-###  Part 1 - HTML Foundation (January 2025)
-**Week 1: Structure & Content**
-- **Sep , 2025**: Initial HTML structure with 6 core pages
-- **Sep  2, 2025**: Semantic HTML5 markup implementation
-- **Sep  3, 2025**: Navigation system and inter-page linking
-- **Sep  4, 2025**: Content integration and proper formatting
-- **Sep  5, 2025**: Accessibility features and SEO foundation
-- **Sep  6, 2025**: File organization and folder structure setup
-- **Sep  7, 2025**: Final HTML validation and cleanup
+**Week 2: Layouts & Responsive Design**
+- **Sep 23, 2025**: Mobile-first responsive breakpoints
+- **Sep 25,  2025**: Vertical layout for About Us page
+- **Sep 27,  2025**: Services page grid system
+
+**Week 3: Polish & Cross-browser Testing**
+- **Sep 30,  2025**: Form styling and interactive elements
+- **Oct 2,  2025**: Cross-browser compatibility fixes
+- **Oct 4,  2025**: Final responsive design adjustments
+
+###  Part 1 - HTML Foundation (August 2025)
+**Week 1: Planning & Structure**
+- **Aug 19,  2025**: Project planning and brand concept development
+- **Aug 21,  2025**: Basic HTML structure for all 6 pages
+- **Aug 23,  2025**: Navigation system implementation
+
+**Week 2: Content & Semantics**
+- **Aug 26,  2025**: Semantic HTML5 markup and accessibility
+- **Aug 28,  2025**: Content integration and formatting
+- **Aug 30,  2025**: File organization and folder structure
+
+**Week 3: Validation & SEO Foundation**
+- **Sep 2,  2025**: HTML validation and cleanup
+- **Sep 4,  2025**: Basic SEO structure implementation
+- **Sep 6,  2025**: Final Part 1 submission preparation
 
 ## Development Timeline Summary
 
-| Phase | Duration | Key Deliverables | Status |
-|-------|----------|------------------|---------|
-| **Part 1** | Sep  1-7, 2025 | HTML Structure, Navigation, Content | Completed |
-| **Part 2** | Sep  8-14, 2025 | Responsive CSS, Styling, Layouts |  Completed |
-| **Part 3** | Sep  15-25, 2025 | JavaScript, SEO, Forms, Cart | Completed |
+| Phase | Duration | Key Deliverables | Due Date | Status |
+|-------|----------|------------------|----------|---------|
+| **Part 1** | Aug 19 - Sep 6, 2025 | HTML Structure, Navigation, Content | Aug 27, 2024 | ✅ Submitted |
+| **Part 2** | Sep 16 - Oct 4, 2025 | Responsive CSS, Styling, Layouts | Sep 26, 2024 | ✅ Submitted |
+| **Part 3** | Oct 28 - Nov 18, 2025 | JavaScript, SEO, Forms, Cart | Nov 19, 2024 | ✅ Completed |
+
+## Academic Submission Schedule
+
+- **Part 1 Due**: August 27, 2025 
+- **Part 2 Due**: September 26, 2025  
+- **Part 3 Due**: November 19, 2025 
+- **Total Project Duration**: 3 months (August - November 2024)
 
 ## Features Demonstration
 
@@ -101,7 +119,7 @@
 - **Technical SEO**: robots.txt, sitemap.xml, clean URLs
 - **Social Media**: Open Graph meta tags for sharing
 
-### Responsive Design
+###  Responsive Design
 - **Mobile-First**: Optimized for mobile devices
 - **Tablet Support**: Adaptive layouts for medium screens
 - **Desktop Experience**: Enhanced features for larger screens
@@ -170,10 +188,12 @@
 ## License & Attribution
 This project was developed as part of the Web Development curriculum at The Independent Institute of Education. All brand content, images, and design are fictional and created for educational purposes.
 
+---
 
 **Project Status**:  COMPLETED  
-**Last Updated**: September 25, 2025  
-**Total Development Time**: 25 days (Sep 1-25, 2025)    
+**Last Updated**: November 18, 2025  
+**Total Development Time**: 3 months (August - November 2024)    
+**Academic Year**: 2025  
 **Live Demo**: [GitHub Pages URL when deployed]
 
 *"drip with meaning, move with loyalty" - Slime Apparel*
