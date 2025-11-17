@@ -57,7 +57,7 @@ This was inspired by the bash style and functionality.
 ## References
 www.istockphoto.com. (n.d.). Contact Us Stock Photos, Pictures & Royalty-Free Images - iStock. [online] Available at: https://www.istockphoto.com/photos/contact-us.
 
-https://bash.com/?utm_source=google&utm_medium=cpc&utm_campaign=SRCH_BR_Bash&gad_source=1&gad_campaignid=17758067887&gbraid=0AAAAAonhP9-WxMtwzTIgdhgo6dU7r8ERG&gclid=Cj0KCQiArOvIBhDLARIsAPwJXOaOqVQebHMqAniuw8wFkSm1yG6XHPJjmwjtbMFv4nf4kYMq_eWAr5gaArr4EALw_wcB
+Bash.n.d. Website [online] Available at: https://bash.com/?utm_source=google&utm_medium=cpc&utm_campaign=SRCH_BR_Bash&gad_source=1&gad_campaignid=17758067887&gbraid=0AAAAAonhP9-WxMtwzTIgdhgo6dU7r8ERG&gclid=Cj0KCQiArOvIBhDLARIsAPwJXOaOqVQebHMqAniuw8wFkSm1yG6XHPJjmwjtbMFv4nf4kYMq_eWAr5gaArr4EALw_wcB.
 ‌
 
 
