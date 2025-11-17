@@ -52,3 +52,7 @@ A fully responsive e-commerce website for Slime Apparel, a premium Johannesburg 
 - **Responsive**: Mobile-first design
 
 ## File Structure
+
+## References
+
+
